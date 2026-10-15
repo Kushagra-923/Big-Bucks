@@ -51,16 +51,6 @@ Customers can maintain a persistent cart, check out with a saved or new delivery
 - cors
 - Razorpay
 
-## Local URLs
-
-The development setup uses localhost consistently:
-
-| Service | URL |
-| --- | --- |
-| Frontend | http://localhost:5173 |
-| Backend | http://localhost:8084 |
-
-The backend allows credentialed requests from `http://localhost:5173`.
 
 ## Project Structure
 
